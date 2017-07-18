@@ -1,0 +1,398 @@
+{
+  "Array": [
+    "Array",
+    "array"
+  ],
+  "Cheerio": [
+    "Cheerio"
+  ],
+  "Firebase": [
+    "Firebase"
+  ],
+  "Fireproof": [
+    "Fireproof"
+  ],
+  "JSON": [
+    "JSON",
+    "json"
+  ],
+  "approximation": [
+    "approximation"
+  ],
+  "arithmetic": [
+    "arithmetic"
+  ],
+  "XML": [
+    "assertXml",
+    "xml"
+  ],
+  "async": [
+    "async"
+  ],
+  "Backbone": [
+    "backbone"
+  ],
+  "bignumber": [
+    "bignumber"
+  ],
+  "bookshelf": [
+    "bookshelf"
+  ],
+  "buffers": [
+    "buffers"
+  ],
+  "chai-json": [
+    "chai-json"
+  ],
+  "chaiplugin": [
+    "chaiplugin"
+  ],
+  "changes": [
+    "changes"
+  ],
+  "checkit": [
+    "checkit"
+  ],
+  "codemod": [
+    "codemod"
+  ],
+  "Colors": [
+    "color",
+    "colors"
+  ],
+  "containSubset": [
+    "containSubset"
+  ],
+  "containSubsetInOrder": [
+    "containSubsetInOrder"
+  ],
+  "contains": [
+    "contains"
+  ],
+  "counting": [
+    "counting"
+  ],
+  "cucumber": [
+    "cucumber"
+  ],
+  "date": [
+    "date"
+  ],
+  "decimal": [
+    "decimal"
+  ],
+  "deep": [
+    "deep"
+  ],
+  "deep-eql": [
+    "deep-eql"
+  ],
+  "deep-equality": [
+    "deep-equality"
+  ],
+  "doge": [
+    "doge"
+  ],
+  "dom": [
+    "dom"
+  ],
+  "enzyme": [
+    "enzyme"
+  ],
+  "equality": [
+    "equality"
+  ],
+  "es2015": [
+    "es2015"
+  ],
+  "es6": [
+    "es6"
+  ],
+  "eventemitter": [
+    "eventemitter"
+  ],
+  "exec": [
+    "exec"
+  ],
+  "executeScript": [
+    "executeScript"
+  ],
+  "expect": [
+    "expect"
+  ],
+  "expectorant": [
+    "expectorant"
+  ],
+  "factory": [
+    "factory"
+  ],
+  "filesystem": [
+    "file",
+    "filesystem",
+    "path"
+  ],
+  "float": [
+    "float"
+  ],
+  "flux": [
+    "flux"
+  ],
+  "flux-standard-action": [
+    "flux-standard-action"
+  ],
+  "fs": [
+    "fs"
+  ],
+  "fsa": [
+    "fsa"
+  ],
+  "functional": [
+    "functional"
+  ],
+  "fuzzy": [
+    "fuzzy"
+  ],
+  "generator": [
+    "generator"
+  ],
+  "graphql": [
+    "graphql"
+  ],
+  "graphql-response": [
+    "graphql-response"
+  ],
+  "guard": [
+    "guard"
+  ],
+  "guid": [
+    "guid"
+  ],
+  "http": [
+    "http"
+  ],
+  "http-response": [
+    "http-response"
+  ],
+  "immutable": [
+    "immutable"
+  ],
+  "integration": [
+    "integration"
+  ],
+  "isMatch": [
+    "isMatch"
+  ],
+  "iterable": [
+    "iterable"
+  ],
+  "iteration": [
+    "iteration"
+  ],
+  "iterator": [
+    "iterator"
+  ],
+  "jQuery": [
+    "jQuery",
+    "jquery"
+  ],
+  "js-factories": [
+    "js-factories"
+  ],
+  "js-signals": [
+    "js-signals"
+  ],
+  "jscodeshift": [
+    "jscodeshift"
+  ],
+  "JSON Schema": [
+    "json-schema"
+  ],
+  "like": [
+    "like"
+  ],
+  "lodash": [
+    "lodash"
+  ],
+  "match": [
+    "match"
+  ],
+  "matchers": [
+    "matchers"
+  ],
+  "matching": [
+    "matching"
+  ],
+  "Math": [
+    "math"
+  ],
+  "mocks": [
+    "mocks"
+  ],
+  "mocks-and-spies": [
+    "mocks-and-spies"
+  ],
+  "MongoDB": [
+    "mongo",
+    "mongodb"
+  ],
+  "node-fetch": [
+    "node-fetch"
+  ],
+  "number-equality": [
+    "number-equality"
+  ],
+  "numbers": [
+    "numbers"
+  ],
+  "object-constructors": [
+    "object-constructors"
+  ],
+  "objectid": [
+    "objectid"
+  ],
+  "objects": [
+    "objects"
+  ],
+  "observables": [
+    "observables"
+  ],
+  "optimisation": [
+    "optimisation"
+  ],
+  "order": [
+    "order"
+  ],
+  "parameter": [
+    "parameter"
+  ],
+  "parameter check": [
+    "parameter check"
+  ],
+  "precision": [
+    "precision"
+  ],
+  "Promises": [
+    "promises",
+    "promises-aplus"
+  ],
+  "protractor": [
+    "protractor"
+  ],
+  "React": [
+    "react"
+  ],
+  "reactive": [
+    "reactive"
+  ],
+  "redux": [
+    "redux"
+  ],
+  "repl": [
+    "repl"
+  ],
+  "request": [
+    "request"
+  ],
+  "rounding-errors": [
+    "rounding-errors"
+  ],
+  "rxjs": [
+    "rxjs"
+  ],
+  "selenium": [
+    "selenium"
+  ],
+  "serenity": [
+    "serenity"
+  ],
+  "serenity-js": [
+    "serenity-js"
+  ],
+  "shallow": [
+    "shallow"
+  ],
+  "shallowly": [
+    "shallowly"
+  ],
+  "should": [
+    "should"
+  ],
+  "signals": [
+    "signals"
+  ],
+  "sinon": [
+    "sinon"
+  ],
+  "sort": [
+    "sort"
+  ],
+  "spies": [
+    "spies"
+  ],
+  "spy": [
+    "spy"
+  ],
+  "streams": [
+    "streams"
+  ],
+  "string": [
+    "string"
+  ],
+  "stubs": [
+    "stubs"
+  ],
+  "subset": [
+    "subset"
+  ],
+  "superagent": [
+    "superagent"
+  ],
+  "supertest": [
+    "supertest"
+  ],
+  "tdd": [
+    "tdd"
+  ],
+  "testing-libraries": [
+    "testing-libraries"
+  ],
+  "time": [
+    "time"
+  ],
+  "tolerance": [
+    "tolerance"
+  ],
+  "typescript": [
+    "typescript"
+  ],
+  "uint8array": [
+    "uint8array"
+  ],
+  "url": [
+    "url"
+  ],
+  "uuid": [
+    "uuid"
+  ],
+  "v8": [
+    "v8"
+  ],
+  "vendor": [
+    "vendor"
+  ],
+  "webdriver": [
+    "webdriver"
+  ],
+  "webdriverjs": [
+    "webdriverjs"
+  ],
+  "wow": [
+    "wow"
+  ],
+  "yield": [
+    "yield"
+  ],
+  "zombie": [
+    "zombie"
+  ]
+}
